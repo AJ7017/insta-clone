@@ -1,6 +1,29 @@
 # petinsta
 
-A new Flutter project.
+📸 Instagram Clone App
+A Flutter-based Instagram clone that replicates core features of the Instagram mobile app. It includes user authentication, profile management, photo posting, real-time likes & comments, and a dynamic feed – all powered by Firebase.
+
+🔧 Features
+User sign up / login with Firebase Auth
+
+Upload and view posts with images & captions
+
+Like and comment on posts in real-time
+
+User profile pages with bio and post count
+
+Responsive and clean UI resembling Instagram
+
+🚀 Tech Stack
+Flutter (Frontend)
+
+Firebase Auth (User Authentication)
+
+Firebase Firestore (Database)
+
+Firebase Storage (Image Uploads)
+
+
 
 ## Getting Started
 
