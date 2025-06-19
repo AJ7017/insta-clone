@@ -77,10 +77,10 @@ import 'package:mime/mime.dart';
 import 'package:http_parser/http_parser.dart';
 
 class CloudinaryService {
-  static const String cloudName = 'dqpy11qat';
+  static const String cloudName = 'Your cloudname';
   static const String uploadPreset = 'image_upload';
-  static const String apiKey = '474394386142665';
-  static const String apiSecret = 'qwGC2GYcTNdx8yVtV0tOprQwF_k';
+  static const String apiKey = 'Your api key';
+  static const String apiSecret = 'Your api secret';
   static const int maxFileSize = 10 * 1024 * 1024; // 10MB
 
   static Future<String> uploadImage(File imageFile) async {
